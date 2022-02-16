@@ -1,5 +1,12 @@
 # NEXT_Project
 
+    1. `npx create-react-app my-app-name`
+        * `git remote -v`
+    2. `git branch -m master main`(change master branch to main)
+    3. create new repository in remote github
+    4. `git remote add origin git@github.com:choukonn/NEXT_Project.git`
+    5. `git pull origin main --allow-unrelated-histories`
+    
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
