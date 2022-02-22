@@ -1,5 +1,5 @@
 # NEXT_Project
-
+test test
     1. `npx create-react-app my-app-name`
         * `git remote -v`
     2. `git branch -m master main`(change master branch to main)
